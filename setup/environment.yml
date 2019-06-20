@@ -1,5 +1,5 @@
 dependencies:
-    - jupyter
     - jupyterlab
+    - pip
     - pip:
-        - tensorflow
+        - tensorflow==2.0.0-beta1
